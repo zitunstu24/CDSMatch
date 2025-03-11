@@ -1,0 +1,8 @@
+
+cds_file_X: "data/input/NCBI_lotus_cds.fa"
+cds_file_Y: "data/input/lotus_cds.fa"
+blast_db: "data/output/ncbi_cds_db"
+XML_output: "data/output/results.xml"
+output_dir: "data/output"
+output_csv: "CDSMatch_results.csv"
+evalue: 0.001
